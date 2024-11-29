@@ -1932,7 +1932,7 @@
     "symbol": "RBNT",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://governors.mainnet.redbelly.network"],
   "faucets": [],
   "infoURL": "https://redbelly.network"
 }, {
@@ -17848,9 +17848,9 @@
   "faucets": [],
   "infoURL": "https://beta.opulent-x.com"
 }, {
-  "name": "Open Campus Codex Mainnet",
+  "name": "EDU Chain",
   "chainId": 41923,
-  "shortName": "occ-mainnet",
+  "shortName": "edu-chain",
   "networkId": 41923,
   "nativeCurrency": {
     "name": "EDU",
@@ -18471,6 +18471,19 @@
   "rpc": ["https://rpc.electroneum.com"],
   "faucets": [],
   "infoURL": "https://electroneum.com"
+}, {
+  "name": "Cytonic Testnet",
+  "chainId": 52225,
+  "shortName": "CTS",
+  "networkId": 52225,
+  "nativeCurrency": {
+    "name": "Cytonic",
+    "symbol": "CCC",
+    "decimals": 18
+  },
+  "rpc": ["http://rpc.sl.testnet.cytonic.com"],
+  "faucets": [],
+  "infoURL": "https://cytonic.com"
 }, {
   "name": "DOID",
   "chainId": 53277,
@@ -22944,7 +22957,7 @@
   "faucets": [],
   "infoURL": "https://alltra.world"
 }, {
-  "name": "Open Campus Codex",
+  "name": "EDU Chain Testnet",
   "chainId": 656476,
   "shortName": "open-campus-codex",
   "networkId": 656476,
@@ -24825,7 +24838,7 @@
     "symbol": "BTCN",
     "decimals": 18
   },
-  "rpc": ["https://maizenet-rpc.usecorn.com"],
+  "rpc": ["https://rpc.ankr.com/corn_maizenet", "https://maizenet-rpc.usecorn.com"],
   "faucets": [],
   "infoURL": "https://usecorn.com"
 }, {
@@ -24838,7 +24851,7 @@
     "symbol": "BTCN",
     "decimals": 18
   },
-  "rpc": ["https://testnet-rpc.usecorn.com"],
+  "rpc": ["https://rpc.ankr.com/corn_testnet", "https://testnet-rpc.usecorn.com"],
   "faucets": [],
   "infoURL": "https://usecorn.com"
 }, {
